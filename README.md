@@ -1,5 +1,7 @@
 # Flutter Keyboard Shortcuts Demo
 
+[![Banner](media/banner.png)](https://github.com/dartfoundry/flutter_shortcut_example)
+
 This Flutter project demonstrates how to add native-feeling keyboard shortcuts to your app using only built-in widgets — no plugins required.
 
 ## Features
